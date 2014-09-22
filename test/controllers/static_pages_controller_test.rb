@@ -20,4 +20,3 @@ class StaticPagesControllerTest < ActionController::TestCase
   end
 
 end
-3
